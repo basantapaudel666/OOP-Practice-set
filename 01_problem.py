@@ -6,6 +6,6 @@ class Programmer:
         self.name= name
         self.salary= salary
         self.pincode= pincode
-p = Programmer("Basanta", 1000009, 12345)     
+p = Programmer("Basanta", 10000509, 12345)     
 print(p.name, p.salary, p.pincode)   
         
